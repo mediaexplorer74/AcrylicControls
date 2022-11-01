@@ -13,8 +13,8 @@ The example code is based on this [post](https://stackoverflow.com/a/43711413/66
 
 ## Tech. details
 
-Req. Win. os. build: 15063 or above
-Min. Win. os. build: 14393
+- Req. Win. os. build: 15063 or above
+- Min. Win. os. build: 14393
 
 ## TODO
 Solve the mystery of No acrylic at W10M... :)
